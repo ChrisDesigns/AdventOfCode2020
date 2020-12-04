@@ -6,7 +6,7 @@
 |                            |
 | [Day 1](./Day1/script.js)  |
 | [Day 2](./Day2/script.js)  |
-| Day 3                      |
+| [Day 3](./Day2/script.js)  |
 | Day 4                      |
 | Day 5                      |
 | Day 6                      |
